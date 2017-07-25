@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f0c23</color>
+    <color name="colorPrimaryDark">#070612</color>
+    <color name="colorAccent">#d77194</color>
+
+    <color name="colorLoginText">#1b1971</color>
+    <color name="colorEditTextBg">#161549</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#020202</color>
+</resources>
